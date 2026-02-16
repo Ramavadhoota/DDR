@@ -78,13 +78,13 @@ class DDRPipeline:
     Multi-stage pipeline for generating DDR reports
     """
     
-    def __init__(self, api_key: str, model_name: str = "gemini-2.0-flash-exp"):
+    def __init__(self, api_key: str, model_name: str = "models/gemini-2.5-flash"):
         """
         Initialize the DDR pipeline
         
         Args:
             api_key: Google API key for Gemini
-            model_name: Model to use (default: gemini-2.0-flash-exp)
+            model_name: Model to use (default: models/gemini-2.5-flash)
         """
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel(model_name)

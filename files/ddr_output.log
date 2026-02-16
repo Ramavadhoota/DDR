@@ -1,0 +1,349 @@
+/workspaces/DDR/files/ddr_pipeline.py:19: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+Multiple definitions in dictionary at byte 0x333977 for key /Im28
+Multiple definitions in dictionary at byte 0x333991 for key /Im30
+Multiple definitions in dictionary at byte 0x3339ab for key /Im32
+Multiple definitions in dictionary at byte 0x3339c5 for key /Im34
+Multiple definitions in dictionary at byte 0x3339f9 for key /Im38
+Multiple definitions in dictionary at byte 0x333a13 for key /Im40
+Multiple definitions in dictionary at byte 0x333a2d for key /Im42
+Multiple definitions in dictionary at byte 0x333a47 for key /Im44
+Multiple definitions in dictionary at byte 0x333a7b for key /Im48
+Multiple definitions in dictionary at byte 0x333a95 for key /Im50
+Multiple definitions in dictionary at byte 0x333aaf for key /Im52
+Multiple definitions in dictionary at byte 0x333ac9 for key /Im54
+Multiple definitions in dictionary at byte 0x333afd for key /Im58
+Multiple definitions in dictionary at byte 0x333b17 for key /Im60
+Multiple definitions in dictionary at byte 0x333b31 for key /Im62
+Multiple definitions in dictionary at byte 0x333b4b for key /Im64
+Multiple definitions in dictionary at byte 0x333b7f for key /Im68
+Multiple definitions in dictionary at byte 0x333b99 for key /Im70
+Multiple definitions in dictionary at byte 0x333bb3 for key /Im72
+Multiple definitions in dictionary at byte 0x333bcd for key /Im74
+Multiple definitions in dictionary at byte 0x333c01 for key /Im78
+Multiple definitions in dictionary at byte 0x333c1b for key /Im80
+Multiple definitions in dictionary at byte 0x333c35 for key /Im82
+Multiple definitions in dictionary at byte 0x333c4f for key /Im84
+Multiple definitions in dictionary at byte 0x333c83 for key /Im88
+Multiple definitions in dictionary at byte 0x333c9d for key /Im90
+Multiple definitions in dictionary at byte 0x333cb7 for key /Im92
+Multiple definitions in dictionary at byte 0x333cd1 for key /Im94
+Multiple definitions in dictionary at byte 0x333d05 for key /Im98
+Multiple definitions in dictionary at byte 0x333d23 for key /Im100
+Multiple definitions in dictionary at byte 0x333d41 for key /Im102
+Multiple definitions in dictionary at byte 0x333d5f for key /Im104
+Multiple definitions in dictionary at byte 0x333d9b for key /Im108
+Multiple definitions in dictionary at byte 0x333db9 for key /Im110
+Multiple definitions in dictionary at byte 0x333dd7 for key /Im112
+Multiple definitions in dictionary at byte 0x333df5 for key /Im114
+Multiple definitions in dictionary at byte 0x333e31 for key /Im118
+Multiple definitions in dictionary at byte 0x333e4f for key /Im120
+Multiple definitions in dictionary at byte 0x333e6d for key /Im122
+Multiple definitions in dictionary at byte 0x333e8b for key /Im124
+Multiple definitions in dictionary at byte 0x333ec7 for key /Im128
+Multiple definitions in dictionary at byte 0x333ee5 for key /Im130
+Multiple definitions in dictionary at byte 0x333f03 for key /Im132
+Multiple definitions in dictionary at byte 0x333f21 for key /Im134
+Multiple definitions in dictionary at byte 0x333f5d for key /Im138
+Multiple definitions in dictionary at byte 0x333f7b for key /Im140
+Multiple definitions in dictionary at byte 0x333f99 for key /Im142
+Multiple definitions in dictionary at byte 0x333fb7 for key /Im144
+Multiple definitions in dictionary at byte 0x333ff3 for key /Im148
+Multiple definitions in dictionary at byte 0x334011 for key /Im150
+Multiple definitions in dictionary at byte 0x33402f for key /Im152
+Multiple definitions in dictionary at byte 0x33404d for key /Im154
+Multiple definitions in dictionary at byte 0x334089 for key /Im158
+Multiple definitions in dictionary at byte 0x3340a7 for key /Im160
+Multiple definitions in dictionary at byte 0x3340c5 for key /Im162
+Multiple definitions in dictionary at byte 0x3340e3 for key /Im164
+Multiple definitions in dictionary at byte 0x33411f for key /Im168
+Multiple definitions in dictionary at byte 0x33413d for key /Im170
+Multiple definitions in dictionary at byte 0x33415b for key /Im172
+Multiple definitions in dictionary at byte 0x334179 for key /Im174
+Multiple definitions in dictionary at byte 0x3341b5 for key /Im178
+Multiple definitions in dictionary at byte 0x3341d3 for key /Im180
+Multiple definitions in dictionary at byte 0x3341f1 for key /Im182
+Multiple definitions in dictionary at byte 0x33420f for key /Im184
+Multiple definitions in dictionary at byte 0x33424b for key /Im188
+Multiple definitions in dictionary at byte 0x334269 for key /Im190
+Multiple definitions in dictionary at byte 0x334287 for key /Im192
+Multiple definitions in dictionary at byte 0x3342a5 for key /Im194
+Multiple definitions in dictionary at byte 0x3342e1 for key /Im198
+Multiple definitions in dictionary at byte 0x3342ff for key /Im200
+Multiple definitions in dictionary at byte 0x33431d for key /Im202
+Multiple definitions in dictionary at byte 0x33433b for key /Im204
+Multiple definitions in dictionary at byte 0x334377 for key /Im208
+Multiple definitions in dictionary at byte 0x334395 for key /Im210
+Multiple definitions in dictionary at byte 0x3343b3 for key /Im212
+Multiple definitions in dictionary at byte 0x3343d1 for key /Im214
+Multiple definitions in dictionary at byte 0x33440d for key /Im218
+Multiple definitions in dictionary at byte 0x33442b for key /Im220
+Multiple definitions in dictionary at byte 0x334449 for key /Im222
+Multiple definitions in dictionary at byte 0x334467 for key /Im224
+Multiple definitions in dictionary at byte 0x3344a3 for key /Im228
+Multiple definitions in dictionary at byte 0x3344c1 for key /Im230
+Multiple definitions in dictionary at byte 0x3344df for key /Im232
+Multiple definitions in dictionary at byte 0x3344fd for key /Im234
+Multiple definitions in dictionary at byte 0x334539 for key /Im238
+Multiple definitions in dictionary at byte 0x334557 for key /Im240
+Multiple definitions in dictionary at byte 0x334575 for key /Im242
+Multiple definitions in dictionary at byte 0x334593 for key /Im244
+Multiple definitions in dictionary at byte 0x3345cf for key /Im248
+Multiple definitions in dictionary at byte 0x3345ed for key /Im250
+Multiple definitions in dictionary at byte 0x33460b for key /Im252
+Multiple definitions in dictionary at byte 0x334629 for key /Im254
+Multiple definitions in dictionary at byte 0x334665 for key /Im258
+Multiple definitions in dictionary at byte 0x334683 for key /Im260
+Multiple definitions in dictionary at byte 0x3346a1 for key /Im262
+Multiple definitions in dictionary at byte 0x3346bf for key /Im264
+Multiple definitions in dictionary at byte 0x3346fb for key /Im268
+Multiple definitions in dictionary at byte 0x334719 for key /Im270
+Multiple definitions in dictionary at byte 0x334737 for key /Im272
+Multiple definitions in dictionary at byte 0x334755 for key /Im274
+Multiple definitions in dictionary at byte 0x334791 for key /Im278
+Multiple definitions in dictionary at byte 0x3347af for key /Im280
+Multiple definitions in dictionary at byte 0x3347cd for key /Im282
+Multiple definitions in dictionary at byte 0x3347eb for key /Im284
+Multiple definitions in dictionary at byte 0x334827 for key /Im288
+Multiple definitions in dictionary at byte 0x334845 for key /Im290
+Multiple definitions in dictionary at byte 0x334863 for key /Im292
+Multiple definitions in dictionary at byte 0x334881 for key /Im294
+Multiple definitions in dictionary at byte 0x3348bd for key /Im298
+Multiple definitions in dictionary at byte 0x3348db for key /Im300
+Multiple definitions in dictionary at byte 0x3348f9 for key /Im302
+Multiple definitions in dictionary at byte 0x334917 for key /Im304
+Multiple definitions in dictionary at byte 0x334953 for key /Im308
+Multiple definitions in dictionary at byte 0x334971 for key /Im310
+Multiple definitions in dictionary at byte 0x33498f for key /Im312
+Multiple definitions in dictionary at byte 0x3349ad for key /Im314
+Multiple definitions in dictionary at byte 0x3349e9 for key /Im318
+Multiple definitions in dictionary at byte 0x334a07 for key /Im320
+Multiple definitions in dictionary at byte 0x334a25 for key /Im322
+Multiple definitions in dictionary at byte 0x334a43 for key /Im324
+
+================================================================================
+DDR (DETAILED DIAGNOSTIC REPORT) GENERATION SYSTEM
+================================================================================
+
+STEP 1: Setting up API Key...
+✓ API key configured
+
+STEP 2: Loading documents...
+Loading: ../Sample Report.pdf
+Loading PDF: Sample Report.pdf (23 pages)
+✓ Extracted 7774 characters from PDF
+Loading: ../Thermal Images.pdf
+Loading PDF: Thermal Images.pdf (30 pages)
+✓ Extracted 11693 characters from PDF
+✓ Documents loaded successfully
+
+STEP 3: Initializing DDR Pipeline...
+✓ Pipeline initialized
+
+STEP 4: Processing documents through 4-stage pipeline...
+--------------------------------------------------------------------------------
+
+======================================================================
+STARTING DDR GENERATION PIPELINE
+======================================================================
+
+======================================================================
+STAGE 1: Extracting from Inspection Report
+======================================================================
+✓ Extracted 38 observations from Inspection Report
+
+======================================================================
+STAGE 1: Extracting from Thermal Report
+======================================================================
+✓ Extracted 240 observations from Thermal Report
+
+======================================================================
+STAGE 2: Merging & Conflict Detection
+======================================================================
+✓ Merged into 50 unique areas
+✓ Detected 0 conflicts
+
+======================================================================
+STAGE 3: Root Cause & Severity Analysis
+======================================================================
+✓ Root cause analysis completed
+
+======================================================================
+STAGE 4: DDR Report Generation
+======================================================================
+✓ DDR report generated successfully
+
+======================================================================
+PIPELINE COMPLETED SUCCESSFULLY
+======================================================================
+
+--------------------------------------------------------------------------------
+✓ Documents processed successfully
+
+STEP 5: Final DDR Report
+================================================================================
+
+================================================================================
+DETAILED DIAGNOSTIC REPORT (DDR)
+================================================================================
+
+1. PROPERTY ISSUE SUMMARY
+--------------------------------------------------------------------------------
+The property is experiencing widespread dampness and leakage across multiple internal areas, specifically in halls, bathrooms, bedrooms, and the kitchen, often observed at skirting levels. This is accompanied by significant plumbing defects, including concealed leaks, damaged Nahani traps, and loose joints, as well as structural and envelope issues such as tile hollowness, gaps in tile joints, and various cracks in external walls, RCC columns, and beams. Furthermore, continuous leakage is noted at the parking ceiling below Flat No. 103 and from cracked external plumbing pipes, along with visible algae and moss on external surfaces.
+
+2. AREA-WISE OBSERVATIONS
+--------------------------------------------------------------------------------
+
+1. BATHROOM
+   Description: Ceiling Dampness; Gaps in tile joints; Mild dampness at the ceiling; Plumbing issues & gaps in tile joints; Tile hollowness
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+2. BEDROOM
+   Description: Cracks on external wall building near Master Bedroom; Dampness and efflorescence on wall surface Master Bedroom; Dampness at skirting level; Gaps in tile joints Common & Bedroom Bathrooms; Gaps in tile joints Master Bedroom Bathroom; Wall damness Master bedroom
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+3. CONCEALED PLUMBING AREAS
+   Description: Leakage from concealed plumbing
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+4. EXTERNAL PLUMBING PIPES
+   Description: Moderate cracking and leakage of external plumbing pipes
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+5. EXTERNAL STRUCTURAL WALLS
+   Description: Moderate major or minor cracks on external surfaces
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+6. EXTERNAL WALL
+   Description: Continuous leakage; Cracks and duct issue; Moderate algae, fungus, and moss on external wall
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+7. FLAT NO 203
+   Description: Open tile joints and outlet leakage
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+8. GENERAL (RELATED TO WC/ADJACENT WALLS)
+   Description: Continuous leakage
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+9. HALL
+   Description: Dampness at skirting level
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+10. KITCHEN
+   Description: Dampness at skirting level
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+11. NAHANI TRAP / BRICKBAT COBA UNDER TILE FLOORING
+   Description: Leakage from damaged Nahani trap or brickbat coba under tile flooring
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+12. NAHANI TRAP JOINTS
+   Description: Gaps around Nahani trap joints
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+13. PARKING AREA
+   Description: Seepage in the parking area
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+14. PARKING CEILING BELOW FLAT
+   Description: Leakage at the parking ceiling below
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+15. PLUMBING JOINTS
+   Description: Loose plumbing joints (e.g., flush tank, shower, angle cock, bibcock, washbasin) with observed rust.
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+16. STRUCTURAL RCC COLUMNS AND BEAMS
+   Description: Moderate cracks on RCC columns and beams.
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+17. THERMAL MEASUREMENT POINTS
+   Description: Various hotspot temperatures recorded across different measurement points. Hotspot reading at Point 1.; Hotspot reading at Point 10.; Hotspot reading at Point 11.; Hotspot reading at Point 12.; Hotspot reading at Point 13.; Hotspot reading at Point 14.; Hotspot reading at Point 15.; Hotspot reading at Point 16.; Hotspot reading at Point 17.; Hotspot reading at Point 18.; Hotspot reading at Point 19.; Hotspot reading at Point 2.; Hotspot reading at Point 20.; Hotspot reading at Point 21.; Hotspot reading at Point 22.; Hotspot reading at Point 23.; Hotspot reading at Point 24.; Hotspot reading at Point 25.; Hotspot reading at Point 26.; Hotspot reading at Point 27.; Hotspot reading at Point 28.; Hotspot reading at Point 29.; Hotspot reading at Point 3.; Hotspot reading at Point 30.; Hotspot reading at Point 4.; Hotspot reading at Point 5.; Hotspot reading at Point 6.; Hotspot reading at Point 7.; Hotspot reading at Point 8.; Hotspot reading at Point 9.
+   Temperature: 25.1 °C, 25.2 °C, 25.5 °C, 25.6 °C, 25.7 °C, 25.8 °C, 25.9 °C, 26 °C, 26.1 °C, 26.2 °C, 26.3 °C, 26.4 °C, 26.5 °C, 26.7 °C, 26.9 °C, 27 °C, 27.3 °C, 27.4 °C, 27.8 °C, 28.8 °C
+   Notes: Only thermal data was collected for this area, lacking visual context.
+
+18. TILE JOINTS
+   Description: Gaps or blackish dirt in tile joints
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+19. INTERNAL WC/BATH/BALCONY AREAS
+   Description: Leakage observed in internal WC, bathroom, or balcony areas.
+   Temperature: Not Available
+   Notes: No thermal data was collected for this area.
+
+3. PROBABLE ROOT CAUSE
+--------------------------------------------------------------------------------
+The probable root cause is systemic water ingress resulting from a combination of compromised plumbing systems and building envelope deficiencies. Explicit evidence points to failures in concealed plumbing, damaged Nahani traps, loose plumbing joints, and cracked external plumbing pipes as direct sources of leakage. These are exacerbated by structural issues such as gaps in tile joints, tile hollowness, and significant cracks in both external walls and structural RCC columns and beams, creating multiple pathways for persistent moisture penetration.
+
+4. SEVERITY ASSESSMENT
+--------------------------------------------------------------------------------
+Level: High
+Reasoning: The issue is assessed as High severity due to the widespread and continuous nature of water ingress affecting multiple critical areas of the property, including internal living spaces and structural elements. The presence of cracks on RCC columns and beams, coupled with major cracks on external surfaces, indicates potential structural compromise. Additionally, 'all time' leakage and observed leakage at the parking ceiling below a flat further escalate the risk, signifying a major system failure and potential safety concerns if not addressed promptly.
+
+5. RECOMMENDED ACTIONS
+--------------------------------------------------------------------------------
+1. Immediately repair all identified plumbing issues, including concealed leaks, damaged Nahani traps, loose joints, and cracked external plumbing pipes, to stop ongoing water leakage.
+2. Address tile problems by repairing or replacing hollow tiles and re-grouting all open tile joints in bathrooms, bedrooms, and other affected areas to prevent water seepage.
+3. Conduct a thorough structural assessment to evaluate cracks in RCC columns, beams, and external walls. Implement appropriate repairs to ensure structural stability and safety.
+4. Repair all external wall cracks and duct issues. Clean and treat external surfaces affected by algae, fungus, and moss to protect the building envelope.
+5. Investigate and repair the source of leakage affecting the parking ceiling below Flat No. 103.
+6. Address internal dampness and efflorescence at skirting levels and wall surfaces in halls, bedrooms, and kitchens, following the resolution of primary water sources.
+
+6. ADDITIONAL NOTES
+--------------------------------------------------------------------------------
+No conflicting information was reported. The diagnosis is based on available visual and thermal observation data.
+
+7. MISSING OR UNCLEAR INFORMATION
+--------------------------------------------------------------------------------
+1. Detailed thermal imaging data, which could help pinpoint concealed moisture, is not available for most visually identified damp areas like halls, bathrooms, bedrooms, and the kitchen.
+2. While hotspot temperatures are provided for several measurement points, specific visual context or location mapping for these thermal readings is missing.
+3. Further specifics regarding the exact locations and types of plumbing system failures (e.g., specific pipe sections, joint types, or fixture leaks) beyond general descriptions would assist in more targeted repairs.
+
+================================================================================
+END OF REPORT
+================================================================================
+
+================================================================================
+STEP 6: Saving outputs...
+✓ Saved output to: ddr_report_formatted.txt
+✓ Saved JSON report to: ddr_report.json
+
+================================================================================
+REPORT GENERATION COMPLETE!
+================================================================================
+
+📊 Report Summary:
+   • Property Issue Summary: 639 characters
+   • Areas Analyzed: 19
+   • Root Cause Identified: False
+   • Severity Level: High
+   • Actions Recommended: 6
+
+📁 Output Files:
+   • ddr_report_formatted.txt
+   • ddr_report.json
