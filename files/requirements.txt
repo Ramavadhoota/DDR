@@ -1,0 +1,15 @@
+# DDR Pipeline Requirements
+# =========================
+
+# Core AI/ML
+google-generativeai>=0.3.0
+
+# Document Processing
+PyPDF2>=3.0.0
+python-docx>=1.0.0
+
+# Data Validation (optional but recommended)
+pydantic>=2.0.0
+
+# JSON handling is built-in to Python 3
+# No additional requirements needed
